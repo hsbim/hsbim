@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hi, I'm [Muhammad Hasbi Muntaha] ✨</h1>
+<h1 align="center">✨ Hi, I'm Muhammad Hasbi Muntaha ✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Passionate+Developer;Always+Learning+New+Things!+🚀">
 </p>
@@ -11,11 +11,11 @@
 ---
 
 ## 🚀 **About Me**  
-- 🎓 I’m a **[senior high school]**  
+- 🎓 I’m a **senior high school**  
 - 💡 Interested in **Web Development | AI | Open Source**  
 - 📚 Currently learning **[Technology/Skill]**  
-- 💬 Ask me about **[Expertise Topics]**  
-- 📫 Reach me at **[Your Email or Social Media]**  
+/*- 💬 Ask me about **[Expertise Topics]**/  
+- 📫 Reach me at **.**  
 
 ---
 
@@ -33,8 +33,8 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hsbim&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hsbim&theme=radical" />
 </p>
 
 <p align="center">
