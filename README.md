@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🐱‍💻 Hello, World!  
+**I'm [Hasbi]**, a passionate developer who loves building awesome things.  
 
-<!--
-**hsbim/hsbim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 **Things I love:**  
+- ☕ Coffee-driven coding  
+- 🎮 Game Development  
+- 🤖 AI & Machine Learning  
 
-Here are some ideas to get you started:
+🚀 **Currently Exploring:**  
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎶 **Fun Fact:**  
+_"I write better code while listening to Lo-Fi beats."_ 🎵  
+
+📩 **Hit me up:**  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/username)  
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord)](https://discord.com/invite/yourserver)
