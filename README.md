@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 **About Me**  
-- 🎓 I’m a **[Job Title | Field]**  
+- 🎓 I’m a **[senior high school]**  
 - 💡 Interested in **Web Development | AI | Open Source**  
 - 📚 Currently learning **[Technology/Skill]**  
 - 💬 Ask me about **[Expertise Topics]**  
@@ -45,7 +45,7 @@
 
 ## 📈 **GitHub Activity Graph**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsbim&theme=github-dark" />
 </p>
 
 ---
