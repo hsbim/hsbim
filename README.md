@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsbim&layout=compact&theme=radical" />
 </p>
 
 ---
