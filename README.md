@@ -12,10 +12,10 @@
 
 ## 🚀 **About Me**  
 - 🎓 I’m a **senior high school**  
-- 💡 Interested in **Web Development | AI | Open Source**  
-- 📚 Currently learning **[Technology/Skill]**  
-/*- 💬 Ask me about **[Expertise Topics]**/  
-- 📫 Reach me at **.**  
+- 💡 Interested in **Frontend**  
+- 📚 Currently learning ****  
+- 💬 Ask me about ****
+- 📫 Reach me at ****  
 
 ---
 
@@ -79,4 +79,4 @@
 
 ---
 
-🌟 **Star repo ini jika kamu menyukainya!** ⭐
+🌟 **Thank You!** ⭐
