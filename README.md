@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">✨ Hi, I'm Muhammad Hasbi Muntaha ✨</h1>
+<h1 align="center">✨ Hi, I'm Hasbi Muntaha ✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Passionate+Developer;Always+Learning+New+Things!+🚀">
 </p>
@@ -50,20 +50,20 @@
 
 ## 🔗 **Let's Connect!**  
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://twitter.com/YOURUSERNAME" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
+  <a href="www.linkedin.com/in/hsbim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://x.com/hsbim_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
+  <a href="mailto:muntahahasbi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hsbim"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /></a>
 </p>
 
 ---
 
 ## 💖 **Support My Work!**  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://ko-fi.com/YOURUSERNAME" target="_blank">
+  <a href="https://ko-fi.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=flat-square&logo=kofi&logoColor=white" />
   </a>
 </p>
