@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 **Let's Connect!**  
-<p align="center">
+<p align="center" gap="10px">
   <a href="www.linkedin.com/in/hsbim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://x.com/hsbim_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter" /></a>
   <a href="mailto:muntahahasbi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
