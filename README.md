@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Passionate+Developer;Always+Learning+New+Things!+🚀">
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
@@ -11,23 +10,14 @@
 ---
 
 ## 🛠 **Tech Stack & Tools**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)   
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-
----
-
 
 ---
 
@@ -62,8 +52,7 @@
 <p align="center">
   <a href="https://www.buymeacoffee.com/" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  
+  </a> 
   <a href="https://ko-fi.com/" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-red?style=flat-square&logo=kofi&logoColor=white" />
   </a>
@@ -71,5 +60,5 @@
 
 ---
 <p align="center">
-🌟 **Thank You!** ⭐
+🌟 Thank You! ⭐
 </p>
