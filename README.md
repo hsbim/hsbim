@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <h1>✨ Hi, I'm Hasbi Muntaha ✨</h1>
+  <h2>✨ Hi, I'm Hasbi ✨</h2>
   
   <h3>A Passionate Developer From Indonesia 🇮🇩</h3>
   
